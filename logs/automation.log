@@ -1,0 +1,32 @@
+10:05:56.402 [main] INFO  api.test.UserTestCases - ******** Creating user *******
+10:06:00.148 [main] INFO  api.test.UserTestCases - ******** User is created *******
+10:06:00.167 [main] INFO  api.test.UserTestCases - ******** Get user *******
+10:06:01.443 [main] INFO  api.test.UserTestCases - ******** User info is retrieved *******
+10:06:01.448 [main] INFO  api.test.UserTestCases - ******** Updating user *******
+10:06:04.080 [main] INFO  api.test.UserTestCases - ******** User's info has been updated *******
+10:06:04.085 [main] INFO  api.test.UserTestCases - ******** Deleting user *******
+10:06:05.333 [main] INFO  api.test.UserTestCases - ******** User has been deleted *******
+10:37:56.150 [main] INFO  api.test.UserTestCases2_usingPropertiesFile - ******** Creating user *******
+10:38:00.070 [main] INFO  api.test.UserTestCases2_usingPropertiesFile - ******** User is created *******
+10:38:00.089 [main] INFO  api.test.UserTestCases2_usingPropertiesFile - ******** Get user *******
+10:38:01.392 [main] INFO  api.test.UserTestCases2_usingPropertiesFile - ******** User info is retrieved *******
+10:38:01.398 [main] INFO  api.test.UserTestCases2_usingPropertiesFile - ******** Updating user *******
+10:38:04.021 [main] INFO  api.test.UserTestCases2_usingPropertiesFile - ******** User's info has been updated *******
+10:38:04.025 [main] INFO  api.test.UserTestCases2_usingPropertiesFile - ******** Deleting user *******
+10:38:05.258 [main] INFO  api.test.UserTestCases2_usingPropertiesFile - ******** User has been deleted *******
+10:58:08.825 [main] INFO  api.test.UserTestCases2_usingPropertiesFile - ******** Creating user *******
+10:58:12.328 [main] INFO  api.test.UserTestCases2_usingPropertiesFile - ******** User is created *******
+10:58:12.341 [main] INFO  api.test.UserTestCases2_usingPropertiesFile - ******** Get user *******
+10:58:13.577 [main] INFO  api.test.UserTestCases2_usingPropertiesFile - ******** User info is retrieved *******
+10:58:13.580 [main] INFO  api.test.UserTestCases2_usingPropertiesFile - ******** Updating user *******
+10:58:15.946 [main] INFO  api.test.UserTestCases2_usingPropertiesFile - ******** User's info has been updated *******
+10:58:15.949 [main] INFO  api.test.UserTestCases2_usingPropertiesFile - ******** Deleting user *******
+10:58:17.125 [main] INFO  api.test.UserTestCases2_usingPropertiesFile - ******** User has been deleted *******
+11:14:33.990 [main] INFO  api.test.UserTestCases2_usingPropertiesFile - ******** Creating user *******
+11:14:37.843 [main] INFO  api.test.UserTestCases2_usingPropertiesFile - ******** User is created *******
+11:14:37.859 [main] INFO  api.test.UserTestCases2_usingPropertiesFile - ******** Get user *******
+11:14:39.097 [main] INFO  api.test.UserTestCases2_usingPropertiesFile - ******** User info is retrieved *******
+11:14:39.100 [main] INFO  api.test.UserTestCases2_usingPropertiesFile - ******** Updating user *******
+11:14:41.425 [main] INFO  api.test.UserTestCases2_usingPropertiesFile - ******** User's info has been updated *******
+11:14:41.428 [main] INFO  api.test.UserTestCases2_usingPropertiesFile - ******** Deleting user *******
+11:14:42.605 [main] INFO  api.test.UserTestCases2_usingPropertiesFile - ******** User has been deleted *******
